@@ -8,8 +8,8 @@ This project uses the C++ programming language and was coded on CodeBlocks IDE. 
 </li>
 
 <li>
-After suceesful installation of the CodeBlocks IDE, please open the newly installed CodeBlocks IDE. Then, click the "File" icon on the top left-most corner of the screen. From the dropdown menu, please select "New" and select "Project". A pop up window should open, and from that window, please select "Console Application".
-![Console_Application](https://github.com/Khant-Khine/Sorting-Algorithms-Visualizer/assets/155600182/a77a5488-658d-4270-a399-eb743caeb47a)
+After suceesful installation of the CodeBlocks IDE, please open the newly installed CodeBlocks IDE. Then, click the "File" icon on the top left-most corner of the screen. From the dropdown menu, please select "New" and select "Project". A pop up window should open, and from that window, please select "Console Application". The following image will help in following the steps mentioned above.
+!(https://github.com/Khant-Khine/Sorting-Algorithms-Visualizer/assets/155600182/4e69ddfd-4135-45ea-beb4-3984cbb78642)
 </li>
 </ol>
 
