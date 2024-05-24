@@ -1,5 +1,5 @@
 # Sorting Algorithms Visualizer
-The project aims to help visualize the effect of arrays which have had elements entered in randomly, in order, or in reverse order, to help gauge how they impact the sorting algorithms such as merge sort, insertion sort, and selection sort. The user first enters the number of elemnts they want in their array and the program displays how many switches were made in sorting these arrays. By analyzing the outputs produced by the program, it helps visualize the scenarios to use different sorting algorithms, as well as how data should be stored to obtain a sorted result with the minimal memory usage and time complexity.
+The project aims to help visualize the effect of arrays which have had elements entered in randomly, in order, or in reverse order, to help gauge how they impact the sorting algorithms such as merge sort, insertion sort, and selection sort. The user first enters the number of elements they want in their array and the program displays how many switches were made in sorting these arrays. By analyzing the outputs produced by the program, it helps visualize the scenarios to use different sorting algorithms, as well as how data should be stored to obtain a sorted result with the minimal memory usage and time complexity.
 
 ## Programming Language and Compiler
 IDE: **CodeBlocks**
